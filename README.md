@@ -13,14 +13,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://github.com/user-attachments/assets/2a197dbd-4393-4f92-96bd-b5b3c2026500" width="100%">
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
