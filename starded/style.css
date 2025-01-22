@@ -10,7 +10,7 @@
     --stroke-color: rgba(255, 255, 255, 0.1);
     --surface-color: rgba(108, 86, 114, 0.1);
     --sufarce-color-hover: rgba(255, 255, 255, 0.2);
-    --highlight-color: gba(255, 255, 255, 0.2);
+    --highlight-color: rgba(255, 255, 255, 0.2);
     --switch-bg-url: url(./assets/MoonStars.svg);
 }
 
